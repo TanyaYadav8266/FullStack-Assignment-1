@@ -1,5 +1,5 @@
-![Screenshot (768)](https://github.com/user-attachments/assets/119889bc-ab67-42df-8b13-423e202929a4)![Screenshot (760)](https://github.com/user-attachments/assets/7517075e-a49c-49fd-8ac9-5282550d4a2a)# E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+# E-CommerceWebsite
+A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
  
  
